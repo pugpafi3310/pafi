@@ -2,7 +2,7 @@
   "short_name": "Weather",
   "icons": [
     {
-      "src": "/images/icons-vector.svg",
+      "src": "/pafi/images/web-icon.png",
       "type": "image/png",
       "sizes": "191x191"
     }
