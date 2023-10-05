@@ -1,0 +1,10 @@
+{
+  "short_name": "Weather",
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/png",
+      "sizes": "191x191"
+    }
+  ]
+}
